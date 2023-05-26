@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31586213922",
+    "project_id": "simplemessage-dd0eb",
+    "storage_bucket": "simplemessage-dd0eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31586213922:android:3277df9fd5a06f0b90aa7b",
+        "android_client_info": {
+          "package_name": "com.example.simplemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31586213922-lskndqpd3b057n9bko236sj8cf46vooq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-e_iMicAuRnWyEADtxActYUf32qeCasQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31586213922-lskndqpd3b057n9bko236sj8cf46vooq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
